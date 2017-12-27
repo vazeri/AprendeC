@@ -1,8 +1,6 @@
 # Colección de programas en C++ para facilitar su enseñanza 
 
-Si has estado buscando aprender C++ de manera práctica, por medio de programación 
-no busques más aquí está todo, esta colección puede tener algo que puedas aprender, 
-Las clases están diseñadas para ser independientes y reusables.
+Si has estado buscando aprender C++ de manera práctica, no busques más, aquí está lo que necesitas, esta colección puede tener algo que puedas aprender
 
 ## ¿Qué es esto?
 
@@ -10,10 +8,10 @@ Las clases están diseñadas para ser independientes y reusables.
 a nivel superior del lenguaje C++"
  
 Construida a lo largo de 2 años, esta librería contiene 
-todos los programas para la enseñanza a nivel superior de C++ bajo la
+todos los programas y sus funciones están diseñadas para ser independientes y reusables los contenidos de esta libreria estan bajo la
 licencia MIT compatible con software de uso propietario.
 
-Esta es una lista de los temas que cubren los programas
+Esta es una lista de los temas que cubren los programas:
 
 ### Programación orientada a objetos
 - Estructuras de datos
