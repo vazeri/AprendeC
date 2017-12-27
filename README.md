@@ -14,11 +14,13 @@ licencia MIT compatible compatible con software de uso propietario.
 
 Esta es una lista de los temas que cubren los programas
 
+-- ProgramaciÓn orientada a objetos
 - Estructuras de datos
 - Tipos de datos y operadores
 - Funciones
 - Apuntadores
-- Programación orientada a objetos
+
+-- Estructuras y archivos
 - Herencia y poliformismo
 - Plantillas
 - Librerias
@@ -27,7 +29,22 @@ Esta es una lista de los temas que cubren los programas
 - Archivos y recursividad
 - Listas no lineales: Arboles
 - Grafos
-- Graficos en C++
+
+-- Metodos numericos
+- Metodo de Newton Rapson
+- Bisección
+- Metodo de Gauss Sneidel
+- Metodo de minimos cuadrados
+- Interpolacion de Newton
+- Interpolacion de lagrange
+- Metodo de simpson
+- Metodo de Euler
+- Metodo de Runge Kutta
+
+-- Graficos en C++
+- Libreria de graficos
+- Figuras geometricas
+- Animación en C++
 
 Las clases estan diseñadas para ser independientes y reusables 
 
@@ -35,10 +52,8 @@ Las clases estan diseñadas para ser independientes y reusables
 
 Esta didivido en 4 secciones, Programacion orientada a objetos, Estructuras y archivos, metodos Numericos y Graficos en C++
 
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/planteamiento.jpg">
-
 ### Proyecto Final
 
-Incluido un sistema para poder calcular el costo energetico del hogar asi como su TopDown el que aplica todos los temas 
+Para poner en practica los fundamentos aprendidos se incluye el diseño y programa de un sistema para poder calcular el costo energetico del hogar asi como su TopDown el que aplican los fundamentos de programacion Orientada a objetos todos los temas 
 
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/TopDown.jpg">
+<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/Top.jpg">
