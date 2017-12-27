@@ -56,11 +56,6 @@ Calcula el costo de la energía eléctrica que consumes aplicando todos los fund
 
 <img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/05_Proyectos%20Finales/Top.jpg">
 
-### Arboles binarios
-Prueba tu habilidad con apuntadores aprendiendo a manipulas los legendarios arboles binarios
-
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/arbol.jpg">
-
 ### Animación en C++ 
 Crea un paisaje con la librería de gráficos incluida por medio de líneas de código en C++
 
