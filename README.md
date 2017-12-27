@@ -47,10 +47,6 @@ Esta es una lista de los temas que cubren los programas
 - Figuras geométricas
 - Animación en C++
 
-# Estructura
-
-Esta dividido en 4 secciones, Programación orientada a objetos, Estructuras y archivos, métodos Numéricos y Gráficos en C++
-
 ## Proyecto Finales
 
 Para poner en práctica los fundamentos aprendidos cada sección incluye un proyecto final
@@ -60,22 +56,23 @@ El que incluye el diseño y programa de un sistema para poder calcular el costo 
 ### Calculo de consumo eléctrico 
 Calcula el costo de la energía eléctrica que consumes aplicando todos los fundamentos de la programación orientada a objetos
 
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/Top.jpg">
+<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/05_Proyectos%20Finales/Top.jpg">
 
 ### Arboles binarios
 Prueba tu habilidad con apuntadores aprendiendo a manipulas los legendarios arboles binarios
 
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/Arbol.jpg">
-
-### Menú de selección
-Un pequeño menú para ayudarte a navegar entre tus programas
-
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/menu.jpg">
+<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/arbol.jpg">
 
 ### Animación en C++ 
 Crea un paisaje con la librería de gráficos incluida por medio de líneas de código en C++
 
-<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/01_Programaci%C3%B3n%20orientada%20a%20objetos/grafico.jpg">
+<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/05_Proyectos%20Finales/graficos.jpg">
+
+## ¿Qué necesito?
+
+Solamente instala Dev C++, y la libreria de graficos de la siguiente liga:
+
+<img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/05_Proyectos%20Finales/dev.jpg">
 
 
 ## Terminos y condiciones
