@@ -1,0 +1,32 @@
+No de producto: 2
+
+Empresa:     PEPSI
+
+Direccion:   Av414
+
+Producto:    Cocacola
+
+Clave:       2
+
+Cantidad:    40
+
+Precio:      50
+
+---------------------------------- 
+
+No de producto: 1
+
+Empresa:     erickvazquez
+
+Direccion:   peje2404
+
+Producto:    alcachofa
+
+Clave:       44455
+
+Cantidad:    2
+
+Precio:      127
+
+---------------------------------- 
+
