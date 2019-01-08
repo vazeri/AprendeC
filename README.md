@@ -1,15 +1,12 @@
-# Colección de programas en C++ para facilitar su enseñanza 
+# Mi de programas de C++ 
 
 Si has estado buscando aprender C++ de manera práctica, no busques más, aquí está lo que necesitas, esta colección puede tener algo que puedas aprender
 
 ## ¿Qué es esto?
 
-> "Una colección de programas y prácticas para facilitar la enseñanza
-a nivel superior del lenguaje C++"
+> "Una colección de programas y prácticas para facilitar la enseñanza a nivel superior del lenguaje C++"
  
-Construida a lo largo de 2 años, esta librería contiene 
-todos los programas y sus funciones están diseñadas para ser independientes y reusables los contenidos de esta libreria estan bajo la
-licencia MIT compatible con software de uso propietario.
+Construida a lo largo de 2 años, esta librería contiene todos los programas y sus funciones están diseñadas para ser independientes y reusables los contenidos de esta libreria estan bajo la licencia MIT compatible con software de uso propietario.
 
 Esta es una lista de los temas que cubren los programas:
 
@@ -66,7 +63,6 @@ Crea un paisaje con la librería de gráficos incluida por medio de líneas de c
 Solamente instala Dev C++, y la libreria de graficos de la siguiente liga:
 
 <img src="https://github.com/vazeri/Programacion-Orientada-a-Objetos/blob/master/05_Proyectos%20Finales/dev.jpg">
-
 
 ## Terminos y condiciones
 Derechos de autor (c) 2017 por [Erick Vazquez](http://vazeri.github.io)<br>
